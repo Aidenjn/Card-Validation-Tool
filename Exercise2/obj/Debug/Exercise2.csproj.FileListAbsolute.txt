@@ -1,0 +1,9 @@
+c:\users\ajnels7\documents\visual studio 2015\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+c:\users\ajnels7\documents\visual studio 2015\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+c:\users\ajnels7\documents\visual studio 2015\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+c:\users\ajnels7\documents\visual studio 2015\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache
+c:\users\ajnels7\documents\visual studio 2015\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.Properties.Resources.resources
+c:\users\ajnels7\documents\visual studio 2015\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.GenerateResource.Cache
+c:\users\ajnels7\documents\visual studio 2015\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+c:\users\ajnels7\documents\visual studio 2015\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
+C:\Users\AJNELS7\Documents\Visual Studio 2015\Projects\Exercise2\Exercise2\obj\Debug\CardValidationTool.LuhmForm.resources

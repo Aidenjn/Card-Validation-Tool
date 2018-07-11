@@ -1,0 +1,9 @@
+C:\Users\AJNELS7\Documents\Visual Studio 2015\Projects\CardValidationTool\Exercise2\bin\Release\CardValidationTool.exe.config
+C:\Users\AJNELS7\Documents\Visual Studio 2015\Projects\CardValidationTool\Exercise2\bin\Release\CardValidationTool.exe
+C:\Users\AJNELS7\Documents\Visual Studio 2015\Projects\CardValidationTool\Exercise2\bin\Release\CardValidationTool.pdb
+C:\Users\AJNELS7\Documents\Visual Studio 2015\Projects\CardValidationTool\Exercise2\obj\Release\CardValidationTool.csprojResolveAssemblyReference.cache
+C:\Users\AJNELS7\Documents\Visual Studio 2015\Projects\CardValidationTool\Exercise2\obj\Release\CardValidationTool.LuhmForm.resources
+C:\Users\AJNELS7\Documents\Visual Studio 2015\Projects\CardValidationTool\Exercise2\obj\Release\CardValidationTool.Properties.Resources.resources
+C:\Users\AJNELS7\Documents\Visual Studio 2015\Projects\CardValidationTool\Exercise2\obj\Release\CardValidationTool.csproj.GenerateResource.Cache
+C:\Users\AJNELS7\Documents\Visual Studio 2015\Projects\CardValidationTool\Exercise2\obj\Release\CardValidationTool.exe
+C:\Users\AJNELS7\Documents\Visual Studio 2015\Projects\CardValidationTool\Exercise2\obj\Release\CardValidationTool.pdb
